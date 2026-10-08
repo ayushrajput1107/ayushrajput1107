@@ -1,4 +1,33 @@
-## 👋 Hey, I'm Ayush!<br><br>🎓 I'm a **Computer Science student specializing in Data Science**, with a strong interest in **Software Development, Backend Engineering, and AI**.<br><br>💻 I enjoy building things that solve real problems — from **full-stack web applications and backend APIs** to **machine learning and AI-powered projects**.<br><br>🧠 Outside of development, I spend a good amount of time solving **DSA problems in C++** and strengthening my problem-solving skills.<br><br>🔍 Currently exploring:<br><br>* ⚙️ Backend Development & System Design<br>* 🤖 Machine Learning & Deep Learning<br>* 🧠 NLP, LLMs & Generative AI<br>* 🔎 RAG and AI-powered applications<br>* ☁️ Cloud & Data Science<br><br>🚀 Some things I enjoy working with:<br>**React • Node.js • Express • MongoDB • C++ • Python • Machine Learning**<br><br>🎯 I'm working towards becoming a **Software Engineer who can build reliable software and intelligent products**, combining strong engineering fundamentals with AI.<br><br>📌 I believe the best way to learn is to **build, break, debug, and build again.**<br><br>⚡ *Currently turning curiosity into code, one project at a time.*<br>
+<sub>
+
+👋 Hey, I'm Ayush!
+
+🎓 I'm a Computer Science student specializing in Data Science, with a strong interest in Software Development, Backend Engineering, and AI.
+
+💻 I enjoy building things that solve real problems — from full-stack web applications and backend APIs to machine learning and AI-powered projects.
+
+🧠 Outside of development, I spend a good amount of time solving DSA problems in C++ and strengthening my problem-solving skills.
+
+🔍 Currently exploring:
+
+* ⚙️ Backend Development & System Design
+* 🤖 Machine Learning & Deep Learning
+* 🧠 NLP, LLMs & Generative AI
+* 🔎 RAG and AI-powered applications
+* ☁️ Cloud & Data Science
+
+🚀 Some things I enjoy working with:
+
+React • Node.js • Express • MongoDB • C++ • Python • Machine Learning
+
+🎯 I'm working towards becoming a Software Engineer who can build reliable software and intelligent products, combining strong engineering fundamentals with AI.
+
+📌 I believe the best way to learn is to build, break, debug, and build again.
+
+⚡ Currently turning curiosity into code, one project at a time.
+
+</sub>
+
 
 
 ## 🌐 Socials:
