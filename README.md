@@ -1,32 +1,50 @@
-<sub>
+<h3>👋 Hey, I'm Ayush!</h3>
 
-👋 Hey, I'm Ayush!
+<p>
+🎓 I'm a Computer Science student specializing in Data Science, with a strong interest in
+Software Development, Backend Engineering, and AI.
+</p>
 
-🎓 I'm a Computer Science student specializing in Data Science, with a strong interest in Software Development, Backend Engineering, and AI.
+<p>
+💻 I enjoy building things that solve real problems — from full-stack web applications
+and backend APIs to machine learning and AI-powered projects.
+</p>
 
-💻 I enjoy building things that solve real problems — from full-stack web applications and backend APIs to machine learning and AI-powered projects.
+<p>
+🧠 I also spend time solving DSA problems in C++ and continuously improving my
+problem-solving skills.
+</p>
 
-🧠 Outside of development, I spend a good amount of time solving DSA problems in C++ and strengthening my problem-solving skills.
+<p>🔍 Currently exploring:</p>
 
-🔍 Currently exploring:
+<ul>
+  <li>⚙️ Backend Development & System Design</li>
+  <li>🤖 Machine Learning & Deep Learning</li>
+  <li>🧠 NLP, LLMs & Generative AI</li>
+  <li>🔎 RAG & AI-powered applications</li>
+  <li>☁️ Cloud & Data Science</li>
+</ul>
 
-* ⚙️ Backend Development & System Design
-* 🤖 Machine Learning & Deep Learning
-* 🧠 NLP, LLMs & Generative AI
-* 🔎 RAG and AI-powered applications
-* ☁️ Cloud & Data Science
+<p>
+🚀 Technologies I enjoy working with:
+</p>
 
-🚀 Some things I enjoy working with:
-
+<p>
 React • Node.js • Express • MongoDB • C++ • Python • Machine Learning
+</p>
 
-🎯 I'm working towards becoming a Software Engineer who can build reliable software and intelligent products, combining strong engineering fundamentals with AI.
+<p>
+🎯 My goal is to become a Software Engineer who builds reliable software
+and intelligent products by combining strong engineering fundamentals with AI.
+</p>
 
-📌 I believe the best way to learn is to build, break, debug, and build again.
+<p>
+📌 I believe the best way to learn is to <i>build, break, debug, and build again.</i>
+</p>
 
+<p>
 ⚡ Currently turning curiosity into code, one project at a time.
-
-</sub>
+</p>
 
 
 
