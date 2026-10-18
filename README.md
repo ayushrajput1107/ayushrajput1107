@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/github-banner.png" width="100%" alt="Ayush Kumar Singh — Software Engineering and AI banner"/>
+<img src="./assets/github-banner.png" width="80%" alt="Ayush Kumar Singh — Software Engineering and AI banner"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Ayush+%F0%9F%91%8B;Building+software+that+solves+real+problems;Exploring+AI%2C+LLMs+%26+intelligent+systems;Turning+ideas+into+working+products;Learn.+Build.+Debug.+Repeat." alt="Animated introduction"/>
