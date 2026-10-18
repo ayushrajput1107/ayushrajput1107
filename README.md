@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/github-banner.png" width="70%" alt="Ayush Kumar Singh — Software Engineering and AI banner"/>
+<img src="./assets/github-banner.png" width="90%" alt="Ayush Kumar Singh — Software Engineering and AI banner"/>
 <br/>
 
 <a href="https://git.io/typing-svg">
