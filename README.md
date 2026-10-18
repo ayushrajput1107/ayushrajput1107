@@ -1,7 +1,6 @@
-<!-- Animated Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:0891B2&height=220&section=header&text=Ayush%20Kumar%20Singh&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Engineering%20%7C%20AI%20%26%20Machine%20Learning&descSize=16&descAlignY=57&animation=fadeIn" width="100%" alt="Ayush Kumar Singh profile banner"/>
+<img src="./assets/github-banner.png" width="100%" alt="Ayush Kumar Singh — Software Engineering and AI banner"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Ayush+%F0%9F%91%8B;Building+software+that+solves+real+problems;Exploring+AI%2C+LLMs+%26+intelligent+systems;Turning+ideas+into+working+products;Learn.+Build.+Debug.+Repeat." alt="Animated introduction"/>
@@ -64,8 +63,6 @@ I believe strong engineering comes from understanding the fundamentals, solving 
 </table>
 
 ## 🚀 Selected projects
-
-Projects are where I turn concepts into working software.
 
 ### 🎟️ Event Management System
 A project inspired by the registration and QR-code pass workflow used at my college's first fresher fest. The idea was to explore how event registration and management could be handled through a dedicated application.
@@ -147,7 +144,5 @@ I'm always interested in connecting with developers, learning from different app
 <br/><br/>
 
 *"Great software is built one thoughtful decision at a time."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:164E63,100:0F172A&height=100&section=footer" width="100%" alt="Decorative footer"/>
 
 </div>
