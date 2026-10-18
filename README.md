@@ -1,64 +1,153 @@
-<h3>👋 Hey, I'm Ayush!</h3>
+<!-- Animated Header -->
+<div align="center">
 
-<p>
-🎓 I'm a Computer Science student specializing in Data Science, with a strong interest in
-Software Development, Backend Engineering, and AI.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:0891B2&height=220&section=header&text=Ayush%20Kumar%20Singh&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Engineering%20%7C%20AI%20%26%20Machine%20Learning&descSize=16&descAlignY=57&animation=fadeIn" width="100%" alt="Ayush Kumar Singh profile banner"/>
 
-<p>
-💻 I enjoy building things that solve real problems — from full-stack web applications
-and backend APIs to machine learning and AI-powered projects.
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Ayush+%F0%9F%91%8B;Building+software+that+solves+real+problems;Exploring+AI%2C+LLMs+%26+intelligent+systems;Turning+ideas+into+working+products;Learn.+Build.+Debug.+Repeat." alt="Animated introduction"/>
+</a>
 
-<p>
-🧠 I also spend time solving DSA problems in C++ and continuously improving my
-problem-solving skills.
-</p>
+<br/>
 
-<p>🔍 Currently exploring:</p>
+<a href="https://github.com/ayushrajput1107">
+  <img src="https://img.shields.io/badge/GitHub-ayushrajput1107-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://linkedin.com/in/ayush-singh-373277345">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:ayush.singh21379@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Let's%20connect-0891B2?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-<ul>
-  <li>⚙️ Backend Development & System Design</li>
-  <li>🤖 Machine Learning & Deep Learning</li>
-  <li>🧠 NLP, LLMs & Generative AI</li>
-  <li>🔎 RAG & AI-powered applications</li>
-  <li>☁️ Cloud & Data Science</li>
-</ul>
-
-<p>
-🚀 Technologies I enjoy working with:
-</p>
-
-<p>
-React • Node.js • Express • MongoDB • C++ • Python • Machine Learning
-</p>
-
-<p>
-🎯 My goal is to become a Software Engineer who builds reliable software
-and intelligent products by combining strong engineering fundamentals with AI.
-</p>
-
-<p>
-📌 I believe the best way to learn is to <i>build, break, debug, and build again.</i>
-</p>
-
-<p>
-⚡ Currently turning curiosity into code, one project at a time.
-</p>
-
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/ayush-singh-373277345) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayush.singh21379@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ayushrajput1107&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=ayushrajput1107&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ayushrajput1107&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=ayushrajput1107&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## `$ whoami`
+
+I'm **Ayush Kumar Singh**, a Computer Science and Engineering student specializing in Data Science, interested in building software that is useful, scalable, and intelligent.
+
+I enjoy working across the stack — from designing backend APIs and developing web applications to experimenting with machine learning models and AI-powered tools.
+
+I believe strong engineering comes from understanding the fundamentals, solving meaningful problems, and being willing to debug what doesn't work.
+
+```text
+> Engineering mindset : Understand the problem first
+> Current interests   : Backend systems, AI & ML
+> Problem solving     : C++ | Data Structures & Algorithms
+> Learning philosophy : Build → Break → Debug → Improve
+```
+
+## ⚡ What I'm working toward
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚙️ Software Engineering</h3>
+      Building web applications, REST APIs, backend services, and database-driven systems with an emphasis on clean code and maintainability.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 AI & Machine Learning</h3>
+      Exploring data preprocessing, model development, NLP, large language models, RAG, and practical AI applications.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 Problem Solving</h3>
+      Practicing DSA in C++, exploring algorithms, and strengthening the fundamentals behind efficient solutions.
+    </td>
+    <td width="50%" valign="top">
+      <h3>☁️ Data & Cloud</h3>
+      Learning data analysis, cloud technologies, and the tools needed to build and deploy useful applications.
+    </td>
+  </tr>
+</table>
+
+## 🚀 Selected projects
+
+Projects are where I turn concepts into working software.
+
+### 🎟️ Event Management System
+A project inspired by the registration and QR-code pass workflow used at my college's first fresher fest. The idea was to explore how event registration and management could be handled through a dedicated application.
+
+**Focus:** Event workflows · Registration · User experience
+
+### 🧠 Personal AI Assistant
+An exploration of building an AI-powered assistant that brings useful capabilities together through a software application.
+
+**Focus:** AI integration · Application development
+
+### 📊 Machine Learning Projects
+A collection of experiments involving data preprocessing, exploratory data analysis, model building, and evaluation.
+
+**Focus:** Python · Data analysis · Machine learning
+
+> 📌 Add links to your actual repositories above once you've chosen the projects you want visitors to explore first.
+
+## 🛠️ Tech stack
+
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+### Web & Backend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+### Data Science & Machine Learning
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=111827)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+## 📈 GitHub activity
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayushrajput1107&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=ayushrajput1107&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+<br/>
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushrajput1107&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
+
+</div>
+
+## 🤝 Let's connect
+
+I'm always interested in connecting with developers, learning from different approaches, discussing software engineering, and collaborating on meaningful projects.
+
+<div align="center">
+
+<a href="https://linkedin.com/in/ayush-singh-373277345">LinkedIn</a> •
+<a href="mailto:ayush.singh21379@gmail.com">Email</a> •
+<a href="https://github.com/ayushrajput1107">GitHub</a>
+
+<br/><br/>
+
+*"Great software is built one thoughtful decision at a time."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:164E63,100:0F172A&height=100&section=footer" width="100%" alt="Decorative footer"/>
+
+</div>
